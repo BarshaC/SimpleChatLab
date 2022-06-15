@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SimpleChat.iml" filepath="$PROJECT_DIR$/.idea/modules/SimpleChat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/SimpleChat.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/SimpleChat.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/SimpleChat.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/SimpleChat.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/SimpleChat.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/SimpleChat.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/SimpleChat.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/SimpleChat.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
